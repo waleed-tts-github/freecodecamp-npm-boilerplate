@@ -1,3 +1,5 @@
-# Managing Packages With npm
+# Managing Packages With npm (completed By waleed Bukhari)
 
-This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/
+## In this module, i have practiced some important concepts like handling different npm packages, Semantic versions (Major, Minor, Patch). Also I study about some important information which should be there in package.json file, like author information, description of project, project keywords, etc.
+
+### Lets now started next module ....
